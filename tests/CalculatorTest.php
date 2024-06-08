@@ -1,7 +1,7 @@
-// tests/CalculatorTest.php
 <?php
 
 use PHPUnit\Framework\TestCase;
+use src\Calculator;
 
 class CalculatorTest extends TestCase {
     public function testAdd() {

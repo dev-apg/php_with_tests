@@ -1,5 +1,6 @@
-// src/Calculator.php
 <?php
+
+namespace src;
 
 class Calculator {
     public function add($a, $b) {
