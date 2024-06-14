@@ -8,7 +8,7 @@ class Calculator {
     }
 
     public function subtract($a, $b) {
-        return $a;
+        return $a - $b;
     }
 
     public function multiply($a, $b) {
